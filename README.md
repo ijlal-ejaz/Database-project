@@ -5,9 +5,9 @@ The purpose of this proposal is to clearly explain:  The problem of managing 
 This project focuses on building a software system backed by a database to ensure efficient 
 exam handling.
 2. Project Team Information
-For Individual:  Student Name: Ijlal Ejaz  Program and Group: Bs Computer Science(A)
+For Individual:  Student Name: Ijlal Ejaz   Program and Group: Bs Computer Science(A)
 Project Title:
-👉 Online Exam Management System
+ Online Exam Management System
 3. Introduction & Background
 In educational institutions, managing exams manually is time-consuming and error-prone. 
 Teachers struggle with handling student records, question papers, and grading. With the increase 
