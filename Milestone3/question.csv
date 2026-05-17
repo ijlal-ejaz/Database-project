@@ -1,0 +1,101 @@
+question_id,exam_id,question_text,question_type,marks,correct_answer
+1,1,How does data integrity work in a database system?,MCQ,3,B
+2,1,What problem does views solve?,Descriptive,10,Refer to rubric
+3,2,Explain the concept of indexing in detail.,True/False,3,True
+4,2,What problem does indexing solve?,MCQ,3,C
+5,2,What are the advantages of using ACID properties?,Short Answer,3,See answer key
+6,3,Explain the concept of relational algebra in detail.,MCQ,3,A
+7,3,What are the advantages of using indexing?,MCQ,3,B
+8,4,What problem does relational algebra solve?,Descriptive,10,Refer to rubric
+9,4,Explain the concept of indexing in detail.,MCQ,10,A
+10,4,List two key properties of data warehousing.,True/False,2,False
+11,5,Define data integrity and give an example.,MCQ,1,C
+12,6,Explain the concept of data integrity in detail.,Short Answer,10,See answer key
+13,7,How does transactions work in a database system?,Short Answer,2,See answer key
+14,7,Which of the following best describes ERD design?,MCQ,5,B
+15,7,Which of the following best describes SQL joins?,True/False,5,True
+16,8,How does concurrency control work in a database system?,Short Answer,3,See answer key
+17,8,How does normalization work in a database system?,Short Answer,2,See answer key
+18,9,Explain the concept of triggers in detail.,True/False,3,False
+19,9,What is the primary purpose of SQL joins?,True/False,3,True
+20,10,What is the primary purpose of SQL joins?,True/False,10,False
+21,10,What are the advantages of using relational algebra?,True/False,10,True
+22,10,List two key properties of ACID properties.,Descriptive,3,Refer to rubric
+23,11,What is the primary purpose of NoSQL databases?,Descriptive,10,Refer to rubric
+24,11,Compare foreign keys with its alternative.,True/False,3,False
+25,11,Define NoSQL databases and give an example.,MCQ,3,D
+26,12,Define data warehousing and give an example.,Descriptive,2,Refer to rubric
+27,12,Compare transactions with its alternative.,Descriptive,10,Refer to rubric
+28,13,Define views and give an example.,MCQ,2,D
+29,13,When would you use concurrency control in a real-world scenario?,True/False,5,True
+30,14,Which of the following best describes foreign keys?,Descriptive,3,Refer to rubric
+31,14,How does views work in a database system?,MCQ,2,B
+32,14,What is the primary purpose of primary keys?,Short Answer,2,See answer key
+33,15,When would you use relational algebra in a real-world scenario?,MCQ,10,B
+34,15,When would you use query optimization in a real-world scenario?,Descriptive,2,Refer to rubric
+35,15,Explain the concept of relational algebra in detail.,MCQ,2,B
+36,16,What is the primary purpose of data warehousing?,Descriptive,2,Refer to rubric
+37,16,Which of the following best describes concurrency control?,Descriptive,10,Refer to rubric
+38,16,List two key properties of NoSQL databases.,Descriptive,5,Refer to rubric
+39,17,When would you use triggers in a real-world scenario?,Descriptive,2,Refer to rubric
+40,18,How does triggers work in a database system?,Descriptive,5,Refer to rubric
+41,18,How does triggers work in a database system?,True/False,3,False
+42,18,Which of the following best describes indexing?,MCQ,2,D
+43,19,How does foreign keys work in a database system?,Short Answer,5,See answer key
+44,19,What problem does concurrency control solve?,True/False,5,True
+45,19,Compare query optimization with its alternative.,Short Answer,10,See answer key
+46,20,When would you use normalization in a real-world scenario?,Descriptive,3,Refer to rubric
+47,20,Compare data warehousing with its alternative.,Descriptive,10,Refer to rubric
+48,20,How does triggers work in a database system?,Descriptive,5,Refer to rubric
+49,21,What are the advantages of using query optimization?,Descriptive,2,Refer to rubric
+50,22,Compare hashing with its alternative.,MCQ,10,A
+51,23,Which of the following best describes concurrency control?,Descriptive,2,Refer to rubric
+52,24,What are the advantages of using ACID properties?,Descriptive,5,Refer to rubric
+53,24,Compare triggers with its alternative.,True/False,5,False
+54,25,What is the primary purpose of data warehousing?,Descriptive,1,Refer to rubric
+55,26,What is the primary purpose of normalization?,MCQ,2,B
+56,27,How does indexing work in a database system?,Short Answer,5,See answer key
+57,28,When would you use triggers in a real-world scenario?,Short Answer,3,See answer key
+58,28,Which of the following best describes views?,MCQ,1,A
+59,28,List two key properties of query optimization.,True/False,5,True
+60,29,Explain the concept of views in detail.,Short Answer,10,See answer key
+61,30,What are the advantages of using data warehousing?,MCQ,5,C
+62,30,What problem does ERD design solve?,MCQ,1,D
+63,30,Explain the concept of relational algebra in detail.,Descriptive,3,Refer to rubric
+64,31,Compare transactions with its alternative.,Short Answer,10,See answer key
+65,31,When would you use relational algebra in a real-world scenario?,Descriptive,10,Refer to rubric
+66,31,How does foreign keys work in a database system?,True/False,3,False
+67,32,List two key properties of B-trees.,Descriptive,5,Refer to rubric
+68,33,What are the advantages of using transactions?,Descriptive,5,Refer to rubric
+69,34,What are the advantages of using triggers?,True/False,10,False
+70,34,What problem does ACID properties solve?,MCQ,1,B
+71,35,When would you use data warehousing in a real-world scenario?,Descriptive,2,Refer to rubric
+72,35,When would you use normalization in a real-world scenario?,Descriptive,1,Refer to rubric
+73,35,Compare stored procedures with its alternative.,Short Answer,3,See answer key
+74,36,Compare data warehousing with its alternative.,True/False,3,False
+75,36,Define views and give an example.,Descriptive,3,Refer to rubric
+76,37,What are the advantages of using SQL joins?,Short Answer,10,See answer key
+77,38,When would you use triggers in a real-world scenario?,Short Answer,10,See answer key
+78,39,Define stored procedures and give an example.,Short Answer,3,See answer key
+79,40,What problem does indexing solve?,MCQ,3,A
+80,40,What problem does views solve?,MCQ,2,D
+81,41,List two key properties of views.,MCQ,5,D
+82,42,Which of the following best describes primary keys?,True/False,3,False
+83,42,Explain the concept of query optimization in detail.,MCQ,5,A
+84,43,Which of the following best describes indexing?,MCQ,10,C
+85,43,How does SQL joins work in a database system?,MCQ,10,D
+86,43,What problem does query optimization solve?,Short Answer,5,See answer key
+87,44,Define hashing and give an example.,Descriptive,10,Refer to rubric
+88,44,How does ACID properties work in a database system?,MCQ,3,A
+89,45,Which of the following best describes data warehousing?,Short Answer,1,See answer key
+90,46,When would you use B-trees in a real-world scenario?,Descriptive,5,Refer to rubric
+91,47,Define views and give an example.,Short Answer,5,See answer key
+92,48,Define hashing and give an example.,Short Answer,2,See answer key
+93,48,What problem does stored procedures solve?,MCQ,2,C
+94,48,Explain the concept of primary keys in detail.,Short Answer,2,See answer key
+95,49,When would you use SQL joins in a real-world scenario?,True/False,5,False
+96,49,Define NoSQL databases and give an example.,Descriptive,10,Refer to rubric
+97,49,Explain the concept of B-trees in detail.,Descriptive,1,Refer to rubric
+98,50,List two key properties of triggers.,True/False,1,True
+99,50,List two key properties of hashing.,Short Answer,1,See answer key
+100,50,Which of the following best describes backup strategies?,MCQ,10,D

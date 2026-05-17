@@ -1,0 +1,51 @@
+exam_id,teacher_id,title,duration,total_marks,date
+1,4,Machine Learning Final,30,25,2024-10-26
+2,6,Discrete Math Midterm,60,20,2024-01-31
+3,10,Machine Learning Final,45,75,2024-05-02
+4,8,OOP Final,60,25,2024-08-04
+5,9,Theory of Computation Quiz,60,100,2024-05-20
+6,10,Discrete Math Midterm,60,25,2024-08-21
+7,9,Computer Architecture Midterm,30,20,2024-03-25
+8,3,Web Technologies Quiz,90,100,2024-03-11
+9,7,Discrete Math Midterm,120,75,2024-02-16
+10,5,Theory of Computation Quiz,30,20,2024-10-11
+11,5,Machine Learning Final,30,50,2024-10-15
+12,3,Digital Logic Quiz,30,50,2024-08-24
+13,3,Compiler Design Final,30,50,2024-09-27
+14,10,Software Engineering Midterm,45,50,2024-09-30
+15,9,Compiler Design Final,30,100,2024-04-06
+16,8,Database Systems Midterm,30,50,2024-06-28
+17,4,Database Systems Final,45,100,2024-06-20
+18,2,Computer Architecture Midterm,30,100,2024-02-24
+19,3,Computer Architecture Midterm,120,25,2024-03-19
+20,9,Cloud Computing Final,90,25,2024-05-29
+21,4,Artificial Intelligence Midterm,90,50,2024-10-17
+22,9,Digital Logic Quiz,30,25,2024-08-26
+23,2,Machine Learning Final,30,100,2024-05-09
+24,4,Mobile App Development Midterm,45,20,2024-10-24
+25,1,Computer Networks Final,30,20,2024-02-20
+26,2,Compiler Design Final,45,50,2024-07-02
+27,4,Theory of Computation Quiz,45,100,2024-09-19
+28,8,Computer Networks Final,90,75,2024-11-05
+29,2,OOP Midterm,90,50,2024-04-21
+30,7,Digital Logic Quiz,30,20,2024-08-18
+31,7,Machine Learning Final,30,25,2024-02-15
+32,4,Theory of Computation Quiz,90,25,2024-04-22
+33,3,Operating Systems Quiz,90,25,2024-08-18
+34,8,Theory of Computation Quiz,30,20,2024-02-22
+35,1,Data Structures Quiz,45,25,2024-10-17
+36,8,Computer Architecture Midterm,45,75,2024-08-10
+37,3,Discrete Math Midterm,30,75,2024-02-14
+38,8,Artificial Intelligence Midterm,90,100,2024-05-29
+39,3,Software Engineering Midterm,60,25,2024-09-20
+40,10,Theory of Computation Quiz,30,50,2024-02-13
+41,1,Mobile App Development Midterm,90,100,2024-02-13
+42,3,Database Systems Final,120,20,2024-10-12
+43,2,Cloud Computing Final,30,25,2024-04-19
+44,2,Mobile App Development Midterm,45,100,2024-08-08
+45,10,Data Structures Quiz,90,100,2024-02-04
+46,9,Machine Learning Final,60,25,2024-10-30
+47,4,Operating Systems Quiz,90,25,2024-06-23
+48,8,Machine Learning Final,30,20,2024-06-16
+49,10,Mobile App Development Midterm,30,20,2024-09-05
+50,4,Compiler Design Final,60,25,2024-10-16
